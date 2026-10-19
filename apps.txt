@@ -54,3 +54,20 @@ org.kde.kstars
 org.kde.kgeography
 com.github.flxzt.rnote
 org.kde.konsole
+
+# Fifteen further purpose-specific applications
+com.github.jeromerobert.pdfarranger
+org.localsend.localsend_app
+net.cozic.joplin_desktop
+org.kde.kbackup
+org.gnome.DejaDup
+org.kde.krename
+org.kde.tellico
+org.kde.skanpage
+org.kde.merkuro
+org.kde.kontact
+org.kde.kmymoney
+org.kde.kalarm
+org.kde.kclock
+org.kde.marknote
+org.kde.klevernotes
