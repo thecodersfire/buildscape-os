@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for architecture concepts:
 10. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **QElectroTech** (org.qelectrotech.QElectroTech) — draw electrical schematics and wiring diagrams.
+2. **LibreCAD** (org.librecad.librecad) — draft precise 2D technical drawings.
+3. **DBeaver Community** (io.dbeaver.DBeaverCommunity) — browse, query, and manage SQL databases.
+4. **Gitg** (org.gnome.gitg) — review Git history and branches graphically.
+5. **GeoGebra Classic** (org.geogebra.GeoGebra) — explore geometry, algebra, graphing, and 3D math.
+6. **Xournal++** (com.github.xournalpp.xournalpp) — annotate PDFs and take handwritten notes.
+7. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+8. **Stellarium** (org.stellarium.Stellarium) — explore a planetarium sky for astronomy learning.
+9. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+10. **Evolution** (org.gnome.Evolution) — manage email, calendars, and contacts.
+11. **RawTherapee** (com.rawtherapee.RawTherapee) — develop RAW photo files with tone and color controls.
+12. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+13. **Disk Usage Analyzer** (org.gnome.baobab) — find large files and manage storage.
+14. **Flatseal** (com.github.tchx84.Flatseal) — review Flatpak app permissions.
+15. **VSCodium** (com.vscodium.codium) — edit code and project files.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
