@@ -37,3 +37,20 @@ org.kde.digikam
 org.gnome.baobab
 com.github.tchx84.Flatseal
 com.vscodium.codium
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kdevelop
+org.kde.kate
+org.kde.okular
+org.kde.kcalc
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+org.gnome.meld
+org.kde.kdiff3
+io.github.flattool.Warehouse
+org.kde.marble
+org.kde.kstars
+org.kde.kgeography
+com.github.flxzt.rnote
+org.kde.konsole
