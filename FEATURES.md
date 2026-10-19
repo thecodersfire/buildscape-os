@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for architecture concepts:
 3. **Krita** — org.kde.krita
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for architecture concepts:
+
+1. **OpenSCAD** — model parametric 3D parts in code (org.openscad.OpenSCAD)
+2. **KiCad** — design circuits and PCBs (org.kicad.KiCad)
+3. **Arduino IDE** — write and upload microcontroller sketches (cc.arduino.IDE2)
+4. **PrusaSlicer** — prepare models for 3D printing (com.prusa3d.PrusaSlicer)
+5. **DB Browser for SQLite** — inspect SQLite databases (org.sqlitebrowser.sqlitebrowser)
+6. **Wireshark** — inspect network traffic (org.wireshark.Wireshark)
+7. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+8. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+9. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+10. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.

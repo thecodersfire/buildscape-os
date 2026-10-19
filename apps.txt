@@ -4,7 +4,19 @@ org.blender.Blender
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.gimp.GIMP
 org.inkscape.Inkscape
 org.kde.krita
+
+# Ten additional preinstalled purpose-specific applications
+org.openscad.OpenSCAD
+org.kicad.KiCad
+cc.arduino.IDE2
+com.prusa3d.PrusaSlicer
+org.sqlitebrowser.sqlitebrowser
+org.wireshark.Wireshark
+org.gnome.Boxes
+org.gnome.Calculator
+org.gnome.TextEditor
+org.gnome.Logs
