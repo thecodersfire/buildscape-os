@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+base="$HOME/Documents/buildscape-os-workspace"
+mkdir -p "$base/Design" "$base/Builds" "$base/Logs"
+printf 'Workspace ready: %s\n' "$base"
